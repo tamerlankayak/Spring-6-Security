@@ -16,6 +16,7 @@ import org.springframework.security.web.SecurityFilterChain;
 
 import javax.sql.DataSource;
 
+//testing basic auth
 @Configuration
 @EnableMethodSecurity
 public class BasicAuthSecurityConfiguration {
