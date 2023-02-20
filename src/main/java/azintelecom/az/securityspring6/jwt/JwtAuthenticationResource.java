@@ -10,6 +10,8 @@ import org.springframework.web.bind.annotation.RestController;
 import java.time.Instant;
 import java.util.stream.Collectors;
 
+//Here and in JWTConfiguration.java file you can uncomment beans and run
+//Do not forget to comment other securuty classes
 //@RestController
 public class JwtAuthenticationResource {
 
