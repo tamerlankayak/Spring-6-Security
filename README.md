@@ -11,3 +11,4 @@ Spring Boot Security
 
 You can run app and generate JWT token.
 
+Java version: 17
