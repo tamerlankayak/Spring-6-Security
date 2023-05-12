@@ -6,7 +6,7 @@ This repository contains an example Spring 6 project that demonstrates how to im
 
 To get started with this project, follow these steps:
 
-1. Clone the repository to your local machine using `git clone https://github.com/<your_username>/<your_repository>.git`.
+1. Clone the repository to your local machine using `git clone https://github.com/tamerlankayak/Spring-6-Security.git`.
 2. Install the necessary dependencies by running `mvn install`.
 3. Start the application by running `mvn spring-boot:run`.
 4. Navigate to `http://localhost:8080` to view the application in your browser.
